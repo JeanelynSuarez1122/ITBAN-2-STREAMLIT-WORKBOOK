@@ -1,1 +1,3 @@
-"# ITBAN-2 STREAMLIT WORKBOOK" 
+" ITBAN-2 STREAMLIT WORKBOOK " 
+
+This workbook showcases a series of interactive projects developed using Streamlit, a Python-based web framework for building data applications with ease. Each activity demonstrates different features and components of Streamlit, ranging from data display and user interface elements to database interaction, API integration, and real-time computer vision. The goal of these activities is to strengthen my understanding of enterprise data management by applying core concepts such as ETL, data visualization, user input handling, and system interactivity in a practical and engaging way. Through these exercises, I gained hands-on experience in building dynamic applications that are not only functional but also user-friendly and visually organized.
