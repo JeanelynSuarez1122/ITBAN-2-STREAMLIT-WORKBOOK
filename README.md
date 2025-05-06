@@ -15,9 +15,15 @@
 
 " THIS IS THE OUTPUT OF ACTIVITY 3 "
 ![output-activity3](https://github.com/user-attachments/assets/79bb0439-dbc3-4ac7-bf15-676799122806)
-![output-activity3 1](https://github.com/user-attachments/assets/5ca4d037-0c34-4339-9ab7-12416fa744b8)
-![output-activity3 2](https://github.com/user-attachments/assets/d7ec6726-e915-45ec-8ca0-22fd629bc1ae)
+![output-activity3 1](https://github.com/user-attachments/assets/a411fff7-8c2d-4541-97d8-ca01be926588)
 ![output-activity3 3](https://github.com/user-attachments/assets/cad96511-664f-4b03-8b26-70995288f95c)
+![output-activity3 4](https://github.com/user-attachments/assets/53f2c14b-e47e-4bbd-a930-d26cff80e8db)
+![output-activity3 5](https://github.com/user-attachments/assets/d3a3315d-592c-45c4-b8ec-56560d79669f)
+![output-activity3 6](https://github.com/user-attachments/assets/aa348dac-248f-47e0-b1e9-ac73b2906a95)
+![output-activity3 7](https://github.com/user-attachments/assets/8a05ed9a-c13c-4912-9e5f-2448a8e80382)
+![output-activity3 8](https://github.com/user-attachments/assets/efcd9617-431e-4f20-b855-965adf552f28)
+![output-activity3 9](https://github.com/user-attachments/assets/5a276bc3-ad32-4408-bc2a-30c1b01ab7e0)
+![output-activity3 10](https://github.com/user-attachments/assets/ef5c860e-36fe-40d5-b303-10fa80e90ed5)
 
 
 " THIS IS THE EXPLANATION FOR ACTIVITY 3 " 
